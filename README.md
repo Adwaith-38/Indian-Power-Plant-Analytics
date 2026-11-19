@@ -120,11 +120,6 @@ Generation is in GWh and capacity is in MW, so generation is multiplied by 1000 
 - About 10.4% of rows have missing emissions values
 - 2025 is a partial year (data ends on 4 Oct 2025), so its drop is not a real decline
 
-## How to Open
-
-1. Download the dataset from Zenodo and update the file paths in Power Query
-2. Open the `.pbix` file in Power BI Desktop
-3. Refresh the data
 
 ## Author
 
