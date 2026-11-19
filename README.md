@@ -94,11 +94,11 @@ Generation is in GWh and capacity is in MW, so generation is multiplied by 1000 
 | Emissions Intelligence | Emissions per GWh, emissions per plant, emissions trend, top emitting states (Top N slicer), Key Influencers, emissions per GWh by fuel |
 
 
-![Executive Overview] <img width="1322" height="742" alt="executive overview" src="https://github.com/user-attachments/assets/a9def62f-b8bc-4801-8d7a-087c840beb92" />
-![Generation Trends]<img width="1327" height="737" alt="geographic generation intelligence" src="https://github.com/user-attachments/assets/e01e7d8d-ef54-46f3-8e3d-7676a9c7a0fc" />
-![Geographic Generation]  <img width="1328" height="742" alt="generations trend and analysis" src="https://github.com/user-attachments/assets/89f8d161-9653-475f-ab8e-d28a68cf0700" />
-![Plant, Fuel & Technology]  <img width="1315" height="737" alt="plant,fuel,technology intelligence" src="https://github.com/user-attachments/assets/acdb93a7-97e5-44e0-84fa-3d3960b143d9" />
-![Emissions Intelligence]  <img width="1163" height="651" alt="emission intelligence" src="https://github.com/user-attachments/assets/6eba378f-afac-4e9e-b83f-04097d8e2d03" />
+[Executive Overview] <img width="1322" height="742" alt="executive overview" src="https://github.com/user-attachments/assets/a9def62f-b8bc-4801-8d7a-087c840beb92" />
+[Generation Trends]<img width="1327" height="737" alt="geographic generation intelligence" src="https://github.com/user-attachments/assets/e01e7d8d-ef54-46f3-8e3d-7676a9c7a0fc" />
+[Geographic Generation]  <img width="1328" height="742" alt="generations trend and analysis" src="https://github.com/user-attachments/assets/89f8d161-9653-475f-ab8e-d28a68cf0700" />
+[Plant, Fuel & Technology]  <img width="1315" height="737" alt="plant,fuel,technology intelligence" src="https://github.com/user-attachments/assets/acdb93a7-97e5-44e0-84fa-3d3960b143d9" />
+[Emissions Intelligence]  <img width="1163" height="651" alt="emission intelligence" src="https://github.com/user-attachments/assets/6eba378f-afac-4e9e-b83f-04097d8e2d03" />
 
 
 
